@@ -10,3 +10,5 @@ https://api.codiga.io/project/32363/status/svg
 [![Build CI - Linux](https://github.com/PKR24/M1_Student_Record_Management/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/PKR24/M1_Student_Record_Management/actions/workflows/c-cpp.yml)
 
 [![Analysis](https://github.com/PKR24/M1_Student_Record_Management/actions/workflows/analysis.yml/badge.svg)](https://github.com/PKR24/M1_Student_Record_Management/actions/workflows/analysis.yml)
+
+[![Build CI - Windows](https://github.com/PKR24/M1_Student_Record_Management/actions/workflows/windows.yml/badge.svg)](https://github.com/PKR24/M1_Student_Record_Management/actions/workflows/windows.yml)
