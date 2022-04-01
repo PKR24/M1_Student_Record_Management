@@ -14,4 +14,4 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     - name: Build
-      run: make -C M1_Student_Record_Management/3_Implementation
+      run: make -C ./M1_Student_Record_Management/3_Implementation/Code_files
