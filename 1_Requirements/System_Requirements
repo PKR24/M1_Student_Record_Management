@@ -1,0 +1,12 @@
+system requirements:
+  >cpu intel-i5
+  >RAM 8GB
+  >ROM 256GB
+  > os windows/Linux/MAC
+software requirements:
+  >vs code
+  >Mingw64 compiler
+Testing:
+  >codacy
+  >codigo
+  >cppcheck
