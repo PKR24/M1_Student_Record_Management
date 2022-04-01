@@ -6,3 +6,5 @@ It is a student record management project.
 https://api.codiga.io/project/32363/score/svg
 
 https://api.codiga.io/project/32363/status/svg
+
+[![Build CI - Linux](https://github.com/PKR24/M1_Student_Record_Management/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/PKR24/M1_Student_Record_Management/actions/workflows/c-cpp.yml)
