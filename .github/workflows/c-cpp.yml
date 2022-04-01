@@ -1,17 +1,13 @@
 name: Build CI - Linux
-
 on:
   push:
     branches: [ main ]
   pull_request:
     branches: [ main ]
-
 jobs:
   build:
-
     runs-on: ubuntu-latest
-
     steps:
     - uses: actions/checkout@v2
     - name: Build
-      run: make -C ./M1_Student_Record_Management/3_Implementation/Code_files
+      run: make -C M1_Student_Record_Management/3_Implementation/Code_files
