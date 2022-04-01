@@ -1,0 +1,44 @@
+The mini-project “Student Record System Project in C” is a console application using the C programming language.
+This project compiled in Code Blocks with the GCC compiler. In this console application, you can do basic Student
+Record tasks like adding the student info, view the added student, search the students, ..etc.
+This application based on file handling in C, where I have used a file-related function like fopen, fread, fwrite, ..etc.
+Also to increase the readability, I have broken the application in different functions.
+Each function of the project extensively use in the file handing function,
+so it is also a great project to understand file handling in C.
+Approach: The idea is to form an individual functions for every operation. All the functions are unified together to form software.
+
+Add Student Details: Get data from user and add a student to the list of students. While adding the students into the list,
+check for the uniqueness of the roll number.
+Find the student by the given roll number: This function is to find the student record for the given roll number and print the details.
+Find the student by the given first name: This function is to find all the students with the given first name and print their details.
+Find the students registered in a course: This function is to find all the students who have registered for a given course.
+Delete a student: This function is to delete the student record for the given roll number.
+Update Student: This function is to update the student records.
+This function does not ask for new details for all fields but the user should be able to pick and choose what he wants to update.
+
+Advantages:
+Increases Productivity – The right SIS can boost the productivity of your schools.
+The reason for this increase is due to decreased time maintaining records and an increase in the data accuracy and organization.
+Less time leads to keeping administration and staff focused on the productivity of the school.
+Streamlines and simplifies tasks – As an educator, keeping track of all activities done by each student is never easy or efficient. But with online student management software, teachers can keep track of each student’s work and what is yet to be done.
+Improved Communication –With a modern SIS solution, students and parents can easily communicate with their teachers and ask relevant questions.
+All the essential data is available, allowing for a reduction in the cost of communication, which includes calling
+and sending out messages.
+Communication across the school division can also be improved with information being stored in a central location.
+Can Be Accessed by All Parties Involved.
+attendance, and other relevant information.
+Reduction of Human Labour and Workload – The cost incurred from employing staff to manage students
+With a student management system, staff workload is reduced, and teachers can then engage the SIS more.
+This leads them to a reduction in teacher workload and saves them time that could be better spent in the classroom.
+Saves Natural Resources – By implementing a cloud-based solution, schools no longer have to rely on paper files and records.
+With a modern SIS system, performing routine administrative tasks can be completed and recorded without paper.
+This leads to saving natural resources and keeps a digital audit trail of the data.
+Supporting documents can also be scanned and attached as a digital document with the student record.
+Access from Anywhere – The software can be accessed from anywhere and at any time.
+A record of everything can be kept due to its easy accessibility. It also facilitates providing immediate information to all the
+stakeholders. All they require is a smartphone, tablet, or desktop computer.
+
+Disadvantages:
+1. The student result management system is prone to hacks.
+2. Extensive modules and features make it difficult for a user to utilize the application.
+3. Minor technical glitches and issues.
